@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/assets/logo@3x.svg" alt="Be The Hero"><br>
+  <img src="./src/assets/logo@3x.png" alt="Be The Hero"><br>
   <a href="https://github.com/ricassiocosta/BeTheHero-frontend/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ricassiocosta/bethehero-frontend?color=E02041"></a>
 </div><br>
 
